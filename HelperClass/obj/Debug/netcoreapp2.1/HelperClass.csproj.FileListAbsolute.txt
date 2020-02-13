@@ -1,0 +1,9 @@
+C:\Users\Brainnovation\source\repos\webapi\HelperClass\bin\Debug\netcoreapp2.1\HelperClass.deps.json
+C:\Users\Brainnovation\source\repos\webapi\HelperClass\bin\Debug\netcoreapp2.1\HelperClass.dll
+C:\Users\Brainnovation\source\repos\webapi\HelperClass\obj\Debug\netcoreapp2.1\HelperClass.csprojAssemblyReference.cache
+C:\Users\Brainnovation\source\repos\webapi\HelperClass\obj\Debug\netcoreapp2.1\HelperClass.csproj.CoreCompileInputs.cache
+C:\Users\Brainnovation\source\repos\webapi\HelperClass\obj\Debug\netcoreapp2.1\HelperClass.AssemblyInfoInputs.cache
+C:\Users\Brainnovation\source\repos\webapi\HelperClass\obj\Debug\netcoreapp2.1\HelperClass.AssemblyInfo.cs
+C:\Users\Brainnovation\source\repos\webapi\HelperClass\bin\Debug\netcoreapp2.1\HelperClass.pdb
+C:\Users\Brainnovation\source\repos\webapi\HelperClass\obj\Debug\netcoreapp2.1\HelperClass.dll
+C:\Users\Brainnovation\source\repos\webapi\HelperClass\obj\Debug\netcoreapp2.1\HelperClass.pdb
